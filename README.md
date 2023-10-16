@@ -1,23 +1,24 @@
 # 보험상담 kakao chatbot
 
-![image](https://github.com/ldh-Hoon/SyncTree_kakao_chatbot/assets/139981434/c91bc235-13a5-4b20-a9e8-070df1b4bb7c) ![image](https://github.com/ldh-Hoon/SyncTree_kakao_chatbot/assets/139981434/de05c641-68c4-4058-be2a-537b194fd457)
-
-![image](https://github.com/ldh-Hoon/SyncTree_kakao_chatbot/assets/139981434/b21d62ea-47a7-4544-b409-c161a34956ff) ![image](https://github.com/ldh-Hoon/SyncTree_kakao_chatbot/assets/139981434/d278ceeb-5f28-4ed3-9b11-61a3ed0c4c2a)
+![image](https://github.com/ldh-Hoon/SyncTree_kakao_chatbot/assets/139981434/48d14936-79bc-4cbc-9deb-253837d7ba3d)
 
 
+[싱커톤 시즌 3](https://www.synctree101.com/syncathon/main) 참가 결과물 설명페이지입니다.
 
-
-싱커톤 시즌3 참가 결과물 설명페이지입니다.
-
-[Synctree 싱커톤](https://www.synctree101.com/syncathon/main)https://www.synctree101.com/syncathon/main
 
 Demo:
-챗봇 링크(채널링크 추가)
+[챗봇 링크](http://pf.kakao.com/_xoxmZCG/chat)
 
 영상:
 유튜브 링크 추가
 
-### 개요
+## 📆프로젝트 기간 
+
+2023.10.4 - 2023.10.17
+
+
+
+## 개요
 
 기존 교보 라이프스타일 카카오 챗봇을 개선하여 자율적인 응답이 가능합니다.
 
@@ -29,9 +30,9 @@ openai gpt3.5가 보험 약관 문서를 참고하여 답변해줍니다.
 
 개선 시 답변이 더 좋아질 여지가 남아있습니다.
 
-### 스샷 
+## 스샷 
 
-### 구조
+## 구조
 싱크트리 백엔드
 Huggingface langchain inference server
 카카오톡 챗봇
