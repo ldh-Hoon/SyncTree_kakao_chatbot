@@ -1,6 +1,13 @@
 # 보험상담 kakao chatbot
 
+<div align="center">
+  
+  ![image](https://github.com/ldh-Hoon/Chatbot_Mbti_Test/assets/139981434/8b349177-9701-4cca-bfa5-09572f350d00)
+
 ![image](https://github.com/ldh-Hoon/SyncTree_kakao_chatbot/assets/139981434/48d14936-79bc-4cbc-9deb-253837d7ba3d)
+
+</div>
+
 
 > #### [싱커톤 시즌 3](https://www.synctree101.com/syncathon/main) 참가 결과물 설명페이지입니다.
 
