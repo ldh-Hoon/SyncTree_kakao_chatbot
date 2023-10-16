@@ -51,5 +51,7 @@ pdf 문서를 일정 글자수의 청크로 쪼갠 뒤 임베딩 DB를 생성하
 
 ## 구조
 싱크트리 백엔드
-Huggingface langchain inference server
+
+Huggingface space (langchain inference server)
+
 카카오톡 챗봇
