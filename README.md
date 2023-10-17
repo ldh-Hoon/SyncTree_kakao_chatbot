@@ -24,6 +24,7 @@ AI가 보험 약관 문서를 참고하여 보험금을 지급받을 수 있을�
 ## 🔨 구조
 ![image](https://github.com/ldh-Hoon/Chatbot_Mbti_Test/assets/139981434/ce5bdf3b-cd01-4b90-b582-6de72aff0c86)
 
+[사용 폰트](https://noonnu.cc/font_page/1136)
 
 ## 🔎 설명
 
