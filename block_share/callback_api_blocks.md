@@ -9,7 +9,7 @@
 <details>
     <summary>request - body </summary>
 
-'''
+'''XML
 <block xmlns="https://developers.google.com/blockly/xml" type="collection_hashmap">
   <mutation xmlns="http://www.w3.org/1999/xhtml" items="2"></mutation>
   <value name="ADD0">
@@ -48,7 +48,7 @@
 <details>
     <summary>statements - codesection </summary>
 
-'''
+'''XML
 <block xmlns="https://developers.google.com/blockly/xml" type="helper_code_section">
   <statement name="statements">
     <block type="variable_create_set">
@@ -288,7 +288,7 @@
 <details>
     <summary>response - body </summary>
 
-'''
+'''XML
 <block xmlns="https://developers.google.com/blockly/xml" type="response_context_create">
   <value name="status-code">
     <block type="primitive_integer">
